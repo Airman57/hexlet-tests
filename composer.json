@@ -1,0 +1,14 @@
+{
+    "name": "airman/hexlet-tests",
+    "description": "test modul",
+    "type": "proj",
+    "authors": [
+        {
+            "name": "Alexandr",
+            "email": "airmanjke57@gmail.com"
+        }
+    ],
+    "require": {
+        "webmozart/assert": "^1.11"
+    }
+}
